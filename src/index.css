@@ -110,7 +110,7 @@ body {
 
 .radio-button:checked~.radio-label:before {
   content: '';
-  background: #8bc53f url(./icons8-checked-checkbox-48.png) no-repeat;
+  /* background: #8bc53f url(./icons8-checked-checkbox-48.png) no-repeat; */
   background-size: 27px;
   border-color: #8bc53f;
 }
